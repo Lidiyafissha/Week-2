@@ -1,5 +1,5 @@
-# Week-2
-🌟 Customer Experience Analytics for Fintech Apps
+#🌟 Customer Experience Analytics for Fintech Apps
+
 A Comparative Study of User Reviews from CBE, Bank of Abyssinia, and Dashen Bank
 ✨ Overview
 
